@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/village_store/static/css/main.4ed9331d.css",
+    "main.js": "/village_store/static/js/main.4abd14a5.js",
+    "static/js/787.656fcb34.chunk.js": "/village_store/static/js/787.656fcb34.chunk.js",
+    "index.html": "/village_store/index.html",
+    "main.4ed9331d.css.map": "/village_store/static/css/main.4ed9331d.css.map",
+    "main.4abd14a5.js.map": "/village_store/static/js/main.4abd14a5.js.map",
+    "787.656fcb34.chunk.js.map": "/village_store/static/js/787.656fcb34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed9331d.css",
+    "static/js/main.4abd14a5.js"
+  ]
+}
